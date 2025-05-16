@@ -1,0 +1,273 @@
+[
+  {
+    "Edad": 41,
+    "Nivel_Educativo": 1.0,
+    "Experiencia_Anios": 14,
+    "Departamento": 0.0,
+    "Horas_Entrenamiento_Mensual": 9,
+    "Satisfaccion_Laboral": 2.0,
+    "Remoto": 0
+  },
+  {
+    "Edad": 38,
+    "Nivel_Educativo": 2.0,
+    "Experiencia_Anios": 10,
+    "Departamento": 2.0,
+    "Horas_Entrenamiento_Mensual": 11,
+    "Satisfaccion_Laboral": 3.0,
+    "Remoto": 1
+  },
+  {
+    "Edad": 52,
+    "Nivel_Educativo": 3.0,
+    "Experiencia_Anios": 27,
+    "Departamento": 1.0,
+    "Horas_Entrenamiento_Mensual": 13,
+    "Satisfaccion_Laboral": 1.0,
+    "Remoto": 0
+  },
+  {
+    "Edad": 28,
+    "Nivel_Educativo": 0.0,
+    "Experiencia_Anios": 6,
+    "Departamento": 3.0,
+    "Horas_Entrenamiento_Mensual": 8,
+    "Satisfaccion_Laboral": 2.0,
+    "Remoto": 0
+  },
+  {
+    "Edad": 33,
+    "Nivel_Educativo": 2.0,
+    "Experiencia_Anios": 9,
+    "Departamento": 1.0,
+    "Horas_Entrenamiento_Mensual": 12,
+    "Satisfaccion_Laboral": 3.0,
+    "Remoto": 1
+  },
+  {
+    "Edad": 47,
+    "Nivel_Educativo": 1.0,
+    "Experiencia_Anios": 22,
+    "Departamento": 2.0,
+    "Horas_Entrenamiento_Mensual": 14,
+    "Satisfaccion_Laboral": 1.0,
+    "Remoto": 1
+  },
+  {
+    "Edad": 54,
+    "Nivel_Educativo": 2.0,
+    "Experiencia_Anios": 30,
+    "Departamento": 0.0,
+    "Horas_Entrenamiento_Mensual": 10,
+    "Satisfaccion_Laboral": 2.0,
+    "Remoto": 0
+  },
+  {
+    "Edad": 31,
+    "Nivel_Educativo": 1.0,
+    "Experiencia_Anios": 8,
+    "Departamento": 1.0,
+    "Horas_Entrenamiento_Mensual": 6,
+    "Satisfaccion_Laboral": 2.0,
+    "Remoto": 0
+  },
+  {
+    "Edad": 36,
+    "Nivel_Educativo": 3.0,
+    "Experiencia_Anios": 13,
+    "Departamento": 3.0,
+    "Horas_Entrenamiento_Mensual": 16,
+    "Satisfaccion_Laboral": 3.0,
+    "Remoto": 1
+  },
+  {
+    "Edad": 44,
+    "Nivel_Educativo": 2.0,
+    "Experiencia_Anios": 20,
+    "Departamento": 2.0,
+    "Horas_Entrenamiento_Mensual": 15,
+    "Satisfaccion_Laboral": 2.0,
+    "Remoto": 1
+  },
+  {
+    "Edad": 39,
+    "Nivel_Educativo": 1.0,
+    "Experiencia_Anios": 11,
+    "Departamento": 0.0,
+    "Horas_Entrenamiento_Mensual": 7,
+    "Satisfaccion_Laboral": 2.0,
+    "Remoto": 0
+  },
+  {
+    "Edad": 49,
+    "Nivel_Educativo": 3.0,
+    "Experiencia_Anios": 24,
+    "Departamento": 1.0,
+    "Horas_Entrenamiento_Mensual": 19,
+    "Satisfaccion_Laboral": 1.0,
+    "Remoto": 1
+  },
+  {
+    "Edad": 26,
+    "Nivel_Educativo": 0.0,
+    "Experiencia_Anios": 5,
+    "Departamento": 3.0,
+    "Horas_Entrenamiento_Mensual": 6,
+    "Satisfaccion_Laboral": 3.0,
+    "Remoto": 0
+  },
+  {
+    "Edad": 37,
+    "Nivel_Educativo": 2.0,
+    "Experiencia_Anios": 12,
+    "Departamento": 2.0,
+    "Horas_Entrenamiento_Mensual": 13,
+    "Satisfaccion_Laboral": 2.0,
+    "Remoto": 1
+  },
+  {
+    "Edad": 43,
+    "Nivel_Educativo": 1.0,
+    "Experiencia_Anios": 19,
+    "Departamento": 0.0,
+    "Horas_Entrenamiento_Mensual": 11,
+    "Satisfaccion_Laboral": 1.0,
+    "Remoto": 0
+  },
+  {
+    "Edad": 55,
+    "Nivel_Educativo": 3.0,
+    "Experiencia_Anios": 32,
+    "Departamento": 1.0,
+    "Horas_Entrenamiento_Mensual": 17,
+    "Satisfaccion_Laboral": 3.0,
+    "Remoto": 1
+  },
+  {
+    "Edad": 34,
+    "Nivel_Educativo": 1.0,
+    "Experiencia_Anios": 10,
+    "Departamento": 2.0,
+    "Horas_Entrenamiento_Mensual": 9,
+    "Satisfaccion_Laboral": 2.0,
+    "Remoto": 0
+  },
+  {
+    "Edad": 48,
+    "Nivel_Educativo": 2.0,
+    "Experiencia_Anios": 23,
+    "Departamento": 0.0,
+    "Horas_Entrenamiento_Mensual": 14,
+    "Satisfaccion_Laboral": 1.0,
+    "Remoto": 1
+  },
+  {
+    "Edad": 27,
+    "Nivel_Educativo": 0.0,
+    "Experiencia_Anios": 4,
+    "Departamento": 3.0,
+    "Horas_Entrenamiento_Mensual": 8,
+    "Satisfaccion_Laboral": 2.0,
+    "Remoto": 0
+  },
+  {
+    "Edad": 53,
+    "Nivel_Educativo": 3.0,
+    "Experiencia_Anios": 29,
+    "Departamento": 2.0,
+    "Horas_Entrenamiento_Mensual": 18,
+    "Satisfaccion_Laboral": 3.0,
+    "Remoto": 1
+  },
+  {
+    "Edad": 30,
+    "Nivel_Educativo": 1.0,
+    "Experiencia_Anios": 7,
+    "Departamento": 1.0,
+    "Horas_Entrenamiento_Mensual": 6,
+    "Satisfaccion_Laboral": 2.0,
+    "Remoto": 0
+  },
+  {
+    "Edad": 46,
+    "Nivel_Educativo": 2.0,
+    "Experiencia_Anios": 21,
+    "Departamento": 0.0,
+    "Horas_Entrenamiento_Mensual": 13,
+    "Satisfaccion_Laboral": 1.0,
+    "Remoto": 1
+  },
+  {
+    "Edad": 40,
+    "Nivel_Educativo": 1.0,
+    "Experiencia_Anios": 16,
+    "Departamento": 3.0,
+    "Horas_Entrenamiento_Mensual": 10,
+    "Satisfaccion_Laboral": 3.0,
+    "Remoto": 0
+  },
+  {
+    "Edad": 32,
+    "Nivel_Educativo": 0.0,
+    "Experiencia_Anios": 9,
+    "Departamento": 2.0,
+    "Horas_Entrenamiento_Mensual": 7,
+    "Satisfaccion_Laboral": 2.0,
+    "Remoto": 0
+  },
+  {
+    "Edad": 50,
+    "Nivel_Educativo": 2.0,
+    "Experiencia_Anios": 26,
+    "Departamento": 1.0,
+    "Horas_Entrenamiento_Mensual": 15,
+    "Satisfaccion_Laboral": 3.0,
+    "Remoto": 1
+  },
+  {
+    "Edad": 35,
+    "Nivel_Educativo": 1.0,
+    "Experiencia_Anios": 11,
+    "Departamento": 0.0,
+    "Horas_Entrenamiento_Mensual": 9,
+    "Satisfaccion_Laboral": 2.0,
+    "Remoto": 0
+  },
+  {
+    "Edad": 42,
+    "Nivel_Educativo": 3.0,
+    "Experiencia_Anios": 18,
+    "Departamento": 3.0,
+    "Horas_Entrenamiento_Mensual": 12,
+    "Satisfaccion_Laboral": 1.0,
+    "Remoto": 1
+  },
+  {
+    "Edad": 29,
+    "Nivel_Educativo": 0.0,
+    "Experiencia_Anios": 5,
+    "Departamento": 2.0,
+    "Horas_Entrenamiento_Mensual": 8,
+    "Satisfaccion_Laboral": 2.0,
+    "Remoto": 0
+  },
+  {
+    "Edad": 51,
+    "Nivel_Educativo": 2.0,
+    "Experiencia_Anios": 28,
+    "Departamento": 1.0,
+    "Horas_Entrenamiento_Mensual": 16,
+    "Satisfaccion_Laboral": 3.0,
+    "Remoto": 1
+  },
+  {
+    "Edad": 37,
+    "Nivel_Educativo": 1.0,
+    "Experiencia_Anios": 14,
+    "Departamento": 0.0,
+    "Horas_Entrenamiento_Mensual": 10,
+    "Satisfaccion_Laboral": 2.0,
+    "Remoto": 0
+  }
+]
+
